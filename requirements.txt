@@ -14,7 +14,7 @@ cffi==1.15.0
 charset-normalizer==2.0.12
 click==8.0.4
 cltk==1.0.24
--e git+https://github.com/diyclassics/cltk_readers.git@07ece949dbf80cc4af625b7dd8f459c4ac98fdb9#egg=cltk_readers
+-e git+https://github.com/diyclassics/cltk_readers.git#egg=cltk_readers
 cymem==2.0.6
 debugpy==1.5.1
 decorator==5.1.1
