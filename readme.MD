@@ -3,6 +3,8 @@
 
 This repo contains notebooks for a workshop at Stanford Classics on 3/31/2022 on learning about the Classical Language Toolkit and CLTK. These notebooks can be run in Binder (all data/models already available) here: 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diyclassics/stanford-workshop/HEAD?labpath=notebooks)
+
 ## Links
 - [Classical Language Toolkit](https//cltk.org)
 - [CLTK Readers](https://github.com/diyclassics/cltk_readers)
