@@ -1,7 +1,7 @@
 # CLTK-Readers Workshop
 *Written by [diyclassics](https://diyclassics.github.io). Last updated 3.27.2022.*
 
-This repo contains notebooks for a workshop at Stanford Classics on 3/31/2022 on learning about the Classical Language Toolkit and CLTK. These notebooks can be run in Binder (all data/models already available) here: 
+This repo contains notebooks for a workshop at Stanford Classics on 3/31/2022 on learning about the Classical Language Toolkit and CLTK Readers. These notebooks can be run in Binder (all data/models already available) here: 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diyclassics/stanford-workshop/HEAD?labpath=notebooks)
 
